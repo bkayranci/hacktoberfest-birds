@@ -2,17 +2,17 @@
 Share your birds with Hacktoberfest contributors.
 
 ## Why this project?
-This project aims to create a cat gallery.
+This project aims to create a bird gallery.
 
 ### 1. Fork the [repository](https://github.com/bkayranci/hacktoberfest-birds).
 
-### 2. Add your cat's photo to `./gallery/` directory.
+### 2. Add your bird's photo to `./gallery/` directory.
 
 ### 3. Commit
 
 ### 4. Open a PR.
 
-Feel free to add your cat's photo and submit a PR.
+Feel free to add your bird's photo and submit a PR.
 
 ## Hacktoberfest Gallery Repositories
 
